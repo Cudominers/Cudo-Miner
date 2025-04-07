@@ -3,6 +3,14 @@
 **Cudo Miner** is a smart and automated crypto mining application that maximizes profitability with minimal effort. It supports CPU and GPU mining, automatically switches to the most profitable coins, and provides full remote management.
 
 ---
+## 📥 Download & Installation
+
+Download the latest version for your OS:
+
+🔗 [Visit Official Site](https://www.cudominer.com) and follow the setup instructions.
+
+
+
 
 ## 🛠️ Key Features
 
@@ -23,11 +31,7 @@
 
 ---
 
-## 📥 Download & Installation
 
-Download the latest version for your OS:
-
-🔗 [Visit Official Site](https://www.cudominer.com) and follow the setup instructions.
 
 ---
 
